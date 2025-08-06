@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+# StokStok
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+StokStok projesi geliştirme aşamasında olan bir React.js uygulamasıdır.
 
-## Available Scripts
+## Proje Durumu
 
-In the project directory, you can run:
+Bu proje şu anda **%75 tamamlanmış** durumda ve geliştirme aşamasındadır.
 
-### `npm start`
+## Teknolojiler
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- CSS3 (Modern gradient ve glass-morphism tasarım)
+- Responsive tasarım
+- Git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Kurulum
 
-### `npm test`
+Projeyi yerel ortamınızda çalıştırmak için:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Bağımlılıkları yükleyin
+npm install
 
-### `npm run build`
+# Geliştirme sunucusunu başlatın
+npm start
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Proje `http://localhost:3000` adresinde çalışacaktır.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Özellikler
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Modern ve responsive tasarım
+- Gradient arka plan
+- Glass-morphism kart tasarımı
+- İlerleme çubuğu
+- İletişim bilgileri
 
-### `npm run eject`
+## İletişim
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Email:** info@ztaak.com
+- **Telefon:** +90 (543) 392 0956
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# StokStok
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+StokStok is a React.js application currently under development.
 
-## Learn More
+## Project Status
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project is currently **75% complete** and in development phase.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies
 
-### Code Splitting
+- React.js
+- CSS3 (Modern gradient and glass-morphism design)
+- Responsive design
+- Git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Installation
 
-### Analyzing the Bundle Size
+To run the project in your local environment:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+# Install dependencies
+npm install
 
-### Making a Progressive Web App
+# Start development server
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+The project will run at `http://localhost:3000`.
 
-### Advanced Configuration
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Modern and responsive design
+- Gradient background
+- Glass-morphism card design
+- Progress bar
+- Contact information
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Email:** info@ztaak.com
+- **Phone:** +90 (543) 392 0956
